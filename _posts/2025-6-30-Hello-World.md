@@ -15,17 +15,8 @@ What skill or characteristic would you most like to improve upon? What can you d
 2. I have no experience in open source
 3. I believe that mu strongest skill is my ability to be a team player. I also an coachable and have the ability to be flexable with my team.
 4. some skills that I have is.
-
-
-
-
+   
 ![0qaxnqzegcc81](https://github.com/user-attachments/assets/8b396202-87af-41c5-a244-8280575ede4c)
-
-
-
-
-
-
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
