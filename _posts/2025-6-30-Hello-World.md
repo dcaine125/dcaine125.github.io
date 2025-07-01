@@ -17,6 +17,16 @@ What skill or characteristic would you most like to improve upon? What can you d
 4. some skills that I have is.
 
 
+
+
+![0qaxnqzegcc81](https://github.com/user-attachments/assets/8b396202-87af-41c5-a244-8280575ede4c)
+
+
+
+
+
+
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
